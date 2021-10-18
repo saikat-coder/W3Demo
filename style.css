@@ -1,0 +1,28 @@
+#jalraj{
+  /* border: 2px solid red; */
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+#tourpadbot{
+  padding-bottom: 5rem;
+}
+
+
+#contact{
+  letter-spacing: 5px;
+}
+
+
+#footer{
+  margin-top: 20px;
+  padding: 30px;
+  font-size: 1.5rem;
+}
+.fontsaikat{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.font2saikat{
+  font-family: 'Scheherazade New', serif;
+}
